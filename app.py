@@ -9,7 +9,7 @@ st.subheader("Manager Input Section")
 st.write("Please enter the monthly sales target and select the region.")
 
 #Entering monthly sales box
-age = st.number_input("Enter Monthly Sales Target(in USD):",
+age = st.number_input("Enter Monthly Sales Target(in USD):"),
                       min_value=0,
                       max_value=50000,
                       value=25
