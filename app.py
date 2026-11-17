@@ -6,8 +6,9 @@ import numpy as np
 # -------------------------------
 # Title and Description
 # -------------------------------
-st.title("📊 Business Sales Dashboard")
-st.write("Analyze monthly sales data interactively!")
+st.title("Retail Business Dashboard")
+st.title("Manager Input Section")
+st.write("Please enter the monthly sales target and select the region.")
 
 # -------------------------------
 # Sample Data
